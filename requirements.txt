@@ -1,0 +1,20 @@
+async-timeout==4.0.3
+certifi==2024.2.2
+charset-normalizer==3.3.2
+decorator==4.4.2
+idna==3.6
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
+moviepy==1.0.3
+numpy==1.26.4
+pillow==10.2.0
+proglog==0.1.10
+python-dotenv==1.0.1
+pytube @ git+https://github.com/pytube/pytube@a32fff39058a6f7e5e59ecd06a7467b71197ce35
+redis==5.0.2
+requests==2.31.0
+setuptools==69.1.1
+six==1.16.0
+spotipy==2.23.0
+tqdm==4.66.2
+urllib3==2.2.1
